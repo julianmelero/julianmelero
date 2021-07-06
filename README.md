@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development (JavaScript 😍)
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, Node.js, Express.js...
 - 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me: work@julianmelero.dev
+- 📫 How to reach me: hola@julianmelero.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianmelero)
 <!---
