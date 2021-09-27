@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianmelero
-- 👀 I’m interested in web development, Data Science and IA (JavaScript + Python 😍)
-- 🌱 I’m currently learning JavaScript, Node.js, Python, Data Science and IA
+- 👀 I’m interested in web development, Data Science and AI (Python 😍)
+- 🌱 I’m currently learning Python, Data Science and IA
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me: hola@julianmelero.com
 
