@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @julianmelero
 - 👀 I’m interested in Data Science, AI and Web
-- 🤩 Python, Django and FastAPI
-- 🌱 I’m currently learning Python, Data Science and AI
+- 🤩 Python
 - 💞️ I’m looking to collaborate on Data Science, Big Data, AI or Web projects
 - 📫 How to reach me: hola@julianmelero.com
 
