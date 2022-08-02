@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julianmelero
-- 👀 I’m interested in Data Science, AI and Web
-- 🤩 Python and JavaScript
-- 💞️ I’m looking to collaborate on Data Science, Big Data, AI or Web projects
+- 👀 I’m interested on Backend
+- 🤩 JavaScript, TypeScript and Python
+- 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me: hola@julianmelero.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianmelero)
