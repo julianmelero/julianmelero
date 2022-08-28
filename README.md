@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianmelero
 - 👀 I’m interested on Backend
-- 🤩 JavaScript, TypeScript and Python
+- 🤩 JavaScript, TypeScript, PHP and Python
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me: hola@julianmelero.com
 
