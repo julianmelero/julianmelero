@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @julianmelero
 - 👀 I’m interested on Backend
-- 🤩 JavaScript, TypeScript, PHP and Python
-- 💞️ I’m looking to collaborate on Web projects
+- 🤩 JavaScript and TypeScript
 - 📫 How to reach me: hola@julianmelero.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianmelero)
