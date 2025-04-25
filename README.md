@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julianmelero
-- 👀 I’m interested on Backend
-- 🤩 JavaScript and TypeScript
+- 👀 I’m interested on Flutter and Backend with NestJS
+- 🤩 Dart, JavaScript and TypeScript
 - 📫 How to reach me: hola@julianmelero.com
 
 <!---
